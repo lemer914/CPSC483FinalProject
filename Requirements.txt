@@ -1,0 +1,13 @@
+torch==2.0.1
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric
+matplotlib
+networkx
+rdkit
+ogb
+rdkit-pypi
+tqdm
+numpy
